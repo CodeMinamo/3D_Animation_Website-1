@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Gopal Portfolio Desktop Demo](imaging.png)
+![Apple Vision Pro](imaging.png)
 
 This project is **free to use** and does not contains any license.
 # 3D_Animation_Website-1
